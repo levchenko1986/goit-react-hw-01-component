@@ -31,6 +31,9 @@ th {
   border: 2px solid lightgrey;
 }
 
+.td:hover {
+  background-color: rgb(171, 164, 243);
+}
 .trbody:nth-child(even) {
   background-color: lightgray;
 }
